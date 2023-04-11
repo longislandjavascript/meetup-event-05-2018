@@ -1,6 +1,6 @@
 [![LIJS Logo](https://raw.githubusercontent.com/longislandjavascript/longislandjavascript/main/public/logo.png)](https://www.lijs.org)
 
-# Meetup Event: May 2017
+# Meetup Event: May 2018
 ### Firebase and React- Part 1: Setup, OAuth, Realtime Database and Deployment
 
 [View Event on Meetup](https://www.meetup.com/long-island-javascript/events/zjlpklyxhbnc/)
